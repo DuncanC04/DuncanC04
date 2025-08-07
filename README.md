@@ -41,9 +41,8 @@ Unity-built arcade game for wall-sized touchscreen
 ## 🧠 Skills & Tools
 
 **Languages**: Python, SQL, R, JavaScript, C/C++, C#, Java  
-**Libraries**: scikit-learn, PyTorch, Keras, NumPy, Pandas, Matplotlib, Plotly, Seaborn  
+**Python Libraries**: scikit-learn, PyTorch, Keras, NumPy, Pandas, Matplotlib, Plotly, Seaborn  
 **Tools**: Flask, Power BI, TailwindCSS, Git, Linux, Docker, PostgreSQL, Node.js, Unity, Blender  
-**Soft Skills**: Research-driven, team-oriented, detail-focused, deadline-committed  
 
 ---
 

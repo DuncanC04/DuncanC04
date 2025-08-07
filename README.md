@@ -42,7 +42,7 @@ Unity-built arcade game for wall-sized touchscreen
 
 **Languages**: Python, SQL, R, JavaScript, C/C++, C#, Java  
 **Python Libraries**: scikit-learn, PyTorch, Keras, NumPy, Pandas, Matplotlib, Plotly, Seaborn  
-**Tools**: Flask, Power BI, TailwindCSS, Git, Linux, Docker, PostgreSQL, Node.js, Unity, Blender  
+**Tools**: Power BI, Docker, Flask, TailwindCSS, Git, Linux, Docker, PostgreSQL, Node.js, Unity, Blender  
 
 ---
 

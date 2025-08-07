@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Duncan Craine
 
 🎓 **Computer Science & Statistics/Data Science Double Major** at Connecticut College (GPA: 3.7)
+
 💡 Passionate about machine learning, data science, full-stack development, and solving unique problems
 
 ---

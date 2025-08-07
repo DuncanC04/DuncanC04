@@ -6,6 +6,9 @@
 
 💡 Passionate about machine learning, data science, full-stack development, and solving unique problems
 
+📄 [Download My Resume](https://github.com/DuncanC04/DuncanC04/blob/main/DuncanCraineResume.pdf?raw=true)
+
+
 ---
 
 ## 🔬 Current Focus

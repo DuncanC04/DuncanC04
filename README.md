@@ -8,7 +8,7 @@
 
 ## 🔬 Current Focus
 
-- 🏒 **NHL Data Visualization & Modeling Web App**  
+- 🏒 [**NHL Data Visualization & Modeling Web App**](https://github.com/DuncanC04/NHL-APP)  
   → Full-stack application using **PostgreSQL**, **Node.js**, **Python APIs**, and **TailwindCSS**  
   → Visualizes and models NHL data with interactive dashboards and predictive tools  
   → Deployed via Docker for portable, containerized infrastructure
@@ -18,22 +18,17 @@
 
 ---
 
-## 📊 Featured Projects
+## 📊 Additional Featured Projects
 
-### 🏒 [NHL Web App (In Progress)](#)
-A modern web platform for exploring and modeling NHL stats  
-→ Built with **PostgreSQL**, **Node.js**, and **Python ML APIs**  
-→ Styled with **TailwindCSS** and deployed using **Docker**
-
-### 🖼️ AI Image Generator  
+### 🖼️ [AI Image Generator](https://github.com/DuncanC04/Stable-Diffusion-GUI)  
 Built full-stack app using Flask + Keras + TailwindCSS  
 → REST API serving Stable Diffusion 3 for real-time image generation from user prompts
 
-### 📉 Video Game Sales Analysis  
+### 📉 [Video Game Sales Analysis](https://docs.google.com/presentation/d/1nzCy4MzzLZeA682Jht2X7zRyAGuIsYy2E4Lp7vNR2K8/edit?usp=sharing)  
 Analyzed 16,500+ game sales records  
 → Cleaned & visualized multivariate trends with `Seaborn`, `Matplotlib`, and `Plotly`
 
-### 🎮 Time Evaders – 2D Touchscreen Game  
+### 🎮 [Time Evaders – 2D Touchscreen Game](https://dgm.my.canva.site/)
 Unity-built arcade game for wall-sized touchscreen  
 → Won **Best Video Game** based on audience voting
 

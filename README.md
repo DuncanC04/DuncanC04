@@ -14,7 +14,12 @@
   → Deployed via Docker for portable, containerized infrastructure
 
 - 🔋 **Battery Health Modeling** @ National Institute for Undersea Vehicle Technology  
-  → Ran 310+ lithium-ion battery tests, visualized key trends, and built ML models achieving up to **100% classification accuracy**
+  →	Data Collection & Visualization: Conducted 310 tests on lithium-ion battery cells across   
+  controlled states of health, charge, and internal short resistance.   
+  → Visualization: Displayed results using Power BI, Matplotlib, and Seaborn to analyze effects and trends.    
+  →	Machine Learning Modeling & Analysis: Built and evaluated ML models to predict short circuit status and Ohm resistance.     
+  Achieved up to 100% accuracy in short circuit classification and an RMSE of 8.84 ohms in resistance regression.
+
 
 ---
 

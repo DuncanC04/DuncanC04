@@ -2,6 +2,8 @@
 
 🎓 **Computer Science & Statistics/Data Science Double Major** at Connecticut College (GPA: 3.7)
 
+⛵ Member of the Varsity Sailing Team & 🏒 Club Ice Hockey at Connecticut College
+
 💡 Passionate about machine learning, data science, full-stack development, and solving unique problems
 
 ---

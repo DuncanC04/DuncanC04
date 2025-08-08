@@ -63,10 +63,7 @@ Unity-built arcade game for wall-sized touchscreen
 
 ## 📫 Let’s Connect
 
-🌐 [duncancraine.com](http://www.duncancraine.com)  
 🔗 [linkedin.com/in/duncan-craine](http://www.linkedin.com/in/duncan-craine)  
 📧 dcraine@conncoll.edu  
 
 ---
-
-> *“I'm always exploring how code, data, and design intersect to tell compelling stories or solve real-world problems.”*

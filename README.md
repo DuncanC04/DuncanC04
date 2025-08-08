@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Duncan Craine
 
-🎓 **Computer Science & Statistics/Data Science Double Major** at Connecticut College (GPA: 3.7)
+🎓 **Computer Science & Statistics/Data Science Double Major** at Connecticut College (GPA: 3.7), Graduating Spring 2026
 
 ⛵ Member of the Varsity Sailing Team & 🏒 Club Ice Hockey at Connecticut College
 

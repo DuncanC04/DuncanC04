@@ -1,4 +1,6 @@
-# 👋 Hi, I’m Duncan Craine
+# Duncan Craine
+
+🎓 ** Incoming Mechanical Engineering PhD Candidate @UCONNN - Reliability Engineering and Informatics Lab Research Assistant
 
 🎓 **Computer Science & Statistics/Data Science Double Major** at Connecticut College (GPA: 3.7), Graduating Spring 2026
 

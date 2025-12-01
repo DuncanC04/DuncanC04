@@ -1,12 +1,12 @@
 # Duncan Craine
 
-🎓 ** Incoming Mechanical Engineering PhD Candidate @UCONNN ** - Reliability Engineering and Informatics Lab Research Assistant
+🎓 **Incoming Mechanical Engineering PhD Candidate @UCONN** - Reliability Engineering and Informatics Lab Research Assistant
 
 🎓 **Computer Science & Statistics/Data Science Double Major** at Connecticut College (GPA: 3.7), Graduating Spring 2026
 
-⛵ Member of the Varsity Sailing Team & 🏒 Club Ice Hockey at Connecticut College
+⛵ Varsity Sailing Team & 🏒 Club Ice Hockey at Connecticut College
 
-💡 Passionate about machine learning, data science, full-stack development, and solving unique problems
+💡 Passionate about machine learning, data science, AI, and solving unique problems
 
 📄 [Download My Resume](https://github.com/DuncanC04/DuncanC04/blob/main/DuncanCraineResume.pdf?raw=true)
 

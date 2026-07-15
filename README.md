@@ -62,6 +62,6 @@ Unity-built arcade game for wall-sized touchscreen
 ## 📫 Let’s Connect
 
 🔗 [linkedin.com/in/duncan-craine](http://www.linkedin.com/in/duncan-craine)  
-📧 [duncancraine@outlook.com](duncancraine@outlook.com)
+📧 [duncancraine@outlook.com]
 
 ---

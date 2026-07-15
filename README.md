@@ -53,16 +53,15 @@ Unity-built arcade game for wall-sized touchscreen
 
 ## 🏆 Honors
 
-- **ICSA Academic All-American Sailing Team**
-- **2× All-NESCAC All-Academic Team**
-- **Sophomore Computer Science Award**
-- **Best Video Game** (Entertainment Software Design)
+- **2x ICSA Academic All-American Sailing Team**
+- **3× All-NESCAC All-Academic Team**
+- **Senior Computer Science Award - Distinction in Academics**
 
 ---
 
 ## 📫 Let’s Connect
 
 🔗 [linkedin.com/in/duncan-craine](http://www.linkedin.com/in/duncan-craine)  
-📧 dcraine@conncoll.edu  
+📧 [duncancraine@outlook.com](duncancraine@outlook.com)
 
 ---

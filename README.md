@@ -1,8 +1,7 @@
 # Duncan Craine
 
 🎓 **Incoming Mechanical Engineering PhD Candidate @UCONN** - Research Assistant
-
-🎓 **Labs:** Reliability Engineering and Informatics Laboratory (REIL) and Computational Engineering and Design (CEaD) Laboratory
+Labs: Reliability Engineering and Informatics Laboratory (REIL) and Computational Engineering and Design (CEaD) Laboratory
 
 🎓 **Computer Science & Statistics/Data Science Double Major** at Connecticut College (GPA: 3.7), Graduating Spring 2026
 

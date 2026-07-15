@@ -1,6 +1,8 @@
 # Duncan Craine
 
-🎓 **Incoming Mechanical Engineering PhD Candidate @UCONN** - Reliability Engineering and Informatics Lab Research Assistant
+🎓 **Incoming Mechanical Engineering PhD Candidate @UCONN** - Research Assistant
+
+🎓 **Labs:** Reliability Engineering and Informatics Laboratory (REIL) and Computational Engineering and Design (CEaD) Laboratory
 
 🎓 **Computer Science & Statistics/Data Science Double Major** at Connecticut College (GPA: 3.7), Graduating Spring 2026
 
@@ -13,12 +15,7 @@
 
 ---
 
-## 🔬 Current Focus
-
-- 🏒 [**NHL Data Visualization & Modeling Web App**](https://github.com/DuncanC04/NHL-APP)  
-  → Full-stack application using **PostgreSQL**, **Node.js**, **Python APIs**, and **TailwindCSS**  
-  → Visualizes and models NHL data with interactive dashboards and predictive tools  
-  → Deployed via Docker for portable, containerized infrastructure
+## 🔬 Current Focus - PhD
 
 - 🔋 **Battery Health Modeling** @ National Institute for Undersea Vehicle Technology  
   →	Data Collection & Visualization: Conducted 310 tests on lithium-ion battery cells across   

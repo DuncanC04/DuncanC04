@@ -14,14 +14,20 @@
 
 
 ---
+## Current Research
 
-## 🔬 Current Focus - PhD
+→ Developing [ModularML](https://modular-ml.readthedocs.io/en/latest/explanation/architecture_overview.html), an open-source, configuration-driven framework for reproducible ML experimentation, supporting
+  interchangeable model architectures, domain-specific feature engineering, and systematic pipeline evaluation.
+→ Building a retrieval-augmented generation (RAG) pipeline over scientific literature using document parsing, vector
+  embeddings, semantic retrieval, reranking, and LLM-based reasoning to generate physics-informed candidate models.
+→ Integrating analytical modeling, machine learning, and optimization to develop data-efficient approaches for engineering
+  problems where experimental data is limited.
 
-- 🔋 **Battery Health Modeling** @ National Institute for Undersea Vehicle Technology  
-  →	Data Collection & Visualization: Conducted 310 tests on lithium-ion battery cells across   
+## Summer Undergraduate Research Fellow - National Institute of Undersea Vehicle Technology (NIUVT)
+→	Data Collection & Visualization: Conducted 310 tests on lithium-ion battery cells across   
   controlled states of health, charge, and internal short resistance.   
-  → Visualization: Displayed results using Power BI, Matplotlib, and Seaborn to analyze effects and trends.    
-  →	Machine Learning Modeling & Analysis: Built and evaluated ML models to predict short circuit status and Ohm resistance.     
+→ Visualization: Displayed results using Power BI, Matplotlib, and Seaborn to analyze effects and trends.    
+→	Machine Learning Modeling & Analysis: Built and evaluated ML models to predict short circuit status and Ohm resistance.     
   Achieved up to 100% accuracy in short circuit classification and an RMSE of 8.84 ohms in resistance regression.
 
 
